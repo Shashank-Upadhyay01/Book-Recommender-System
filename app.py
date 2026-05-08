@@ -205,6 +205,7 @@ def render_book_card(title, author, image_url, avg_rating, num_ratings):
 # --- 4. TOP NAVIGATION & HERO SECTION ---
 st.markdown('<h1 class="main-header">ReadRadar AI</h1>', unsafe_allow_html=True)
 st.markdown('<p class="sub-header">Discover your next universe. Powered by Machine Learning.</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-header">CREATED BY - Shashank Upadhyay</p>', unsafe_allow_html=True)
 
 tab1, tab2, tab3 = st.tabs(["🔥 Trending", "🔍 Recommend", "🧠 The Math"])
 
@@ -276,7 +277,6 @@ with tab3:
             </p>
             <p style="color:#94a3b8; font-size:1.1rem; line-height:1.6;">
                 When you search for a book, the engine calculates the <b>Cosine Similarity</b>—measuring the geometric angle between the target book's vector and every other book in the database. The closest vectors represent books read by the exact same group of people.
-                CREATED BY: SHASHANK UPADHYAY
             </p>
         </div>
         """, unsafe_allow_html=True)
