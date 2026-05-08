@@ -7,7 +7,7 @@
 
 **ReadRadar AI** is a behavior-driven recommendation engine that understands what readers love. By processing over 1 million data points, it uses high-dimensional vector math to suggest books based entirely on human rating patterns, served through a premium, glassmorphism-styled web interface.
 
-### 🔴 **[Click Here to View the Live App!]([https://book-recommender-system-shashank-upadhyay.streamlit.app/#read-radar-ai])**
+### 🔴 **[Click Here to View the Live App!](https://book-recommender-system-shashank-upadhyay.streamlit.app/#read-radar-ai)**
 
 ---
 
@@ -25,7 +25,7 @@
 *(To add your images, take screenshots of your app, drag and drop them into the GitHub edit window, and replace the bracketed links below with the image links GitHub generates for you!)*
 
 ### 1. The Home Feed
-![Home Page Screenshot]([<img width="2005" height="1277" alt="homepage" src="https://github.com/user-attachments/assets/4852e8f8-67be-4c05-80c8-9cf50e541de4" />
+Home Page Screenshot([<img width="2005" height="1277" alt="homepage" src="https://github.com/user-attachments/assets/4852e8f8-67be-4c05-80c8-9cf50e541de4" />
 ])
 > *Dynamic trending feed featuring the highest-voted books in the database.*
 
@@ -59,8 +59,8 @@ Want to run the model on your own machine?
 ```bash
 git clone [https://github.com/yourusername/Book-Recommendation-Engine.git](https://github.com/yourusername/Book-Recommendation-Engine.git)
 cd Book-Recommendation-Engine
-
-2. Install dependencies:
+'''bash
+**2. Install dependencies:**
 pip install -r requirements.txt
 
 3. Run the Streamlit server:
