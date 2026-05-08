@@ -62,4 +62,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 📂 Dataset Acknowledgment
-This project was trained using the Book-Crossing Dataset collected by Möbius, LINK HERE: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download.
+This project was trained using the Book Recommendation Dataset collected by Möbius, LINK HERE: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download.
