@@ -23,18 +23,15 @@
 ## 📸 Sneak Peek
 
 ### 1. The Home Feed
-Home Page Screenshot([<img width="2005" height="1277" alt="homepage" src="https://github.com/user-attachments/assets/4852e8f8-67be-4c05-80c8-9cf50e541de4" />
-)
+Home Page Screenshot<img width="2005" height="1277" alt="homepage" src="https://github.com/user-attachments/assets/4852e8f8-67be-4c05-80c8-9cf50e541de4" />
 > *Dynamic trending feed featuring the highest-voted books in the database.*
 
 ### 2. The Recommendation Engine
-!Recommend Page Screenshot(<img width="2005" height="1277" alt="recommend_page" src="https://github.com/user-attachments/assets/d27fc862-60fe-4713-962f-8707dc415bd3" />
-)
+Recommend Page Screenshot<img width="2005" height="1277" alt="recommend_page" src="https://github.com/user-attachments/assets/d27fc862-60fe-4713-962f-8707dc415bd3" />
 > *Real-time inference using K-Nearest Neighbors to find visually similar books based on vector distances.*
 
 ### 3. System Architecture
-!About Page Screenshot(<img width="2005" height="1277" alt="about_page" src="https://github.com/user-attachments/assets/220c1d88-2756-446a-8de9-b6c508388431" />
-)
+About Page Screenshot<img width="2005" height="1277" alt="about_page" src="https://github.com/user-attachments/assets/220c1d88-2756-446a-8de9-b6c508388431" />
 > *Detailed breakdown of the mathematical models and tech stack powering the platform.*
 
 ---
@@ -57,7 +54,7 @@ Want to run the model on your own machine?
 ```bash
 git clone [https://github.com/yourusername/Book-Recommendation-Engine.git](https://github.com/yourusername/Book-Recommendation-Engine.git)
 cd Book-Recommendation-Engine
-'''bash
+
 **2. Install dependencies:**
 pip install -r requirements.txt
 
