@@ -205,7 +205,7 @@ def render_book_card(title, author, image_url, avg_rating, num_ratings):
 # --- 4. TOP NAVIGATION & HERO SECTION ---
 st.markdown('<h1 class="main-header">ReadRadar AI</h1>', unsafe_allow_html=True)
 st.markdown('<p class="sub-header">Discover your next universe. Powered by Machine Learning.</p>', unsafe_allow_html=True)
-st.markdown('<p class="sub-header">CREATED BY - Shashank Upadhyay</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-header">CREATED BY - Shashank Upadhyay</p>')
 
 tab1, tab2, tab3 = st.tabs(["🔥 Trending", "🔍 Recommend", "🧠 The Math"])
 
